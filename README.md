@@ -1,7 +1,7 @@
 PresentationTimetable.js
 ========================
 
-Presentationtimetable syncs [SpeackerDeck](http://speackerdeck.com) presentations with YouTube videos using a time/slide table.
+PresentationTimetable.js is a jQuery plugin that syncs [SpeackerDeck](http://speackerdeck.com) presentations with YouTube videos using a time/slide table.
 
 
 ### Example Usage
