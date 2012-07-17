@@ -5,7 +5,7 @@ Presentationtimetable syncs [SpeackerDeck](http://speackerdeck.com) presentation
 
 
 ### Example Usage
-'''javascript
+```ruby
 	<body>
 	...
 
@@ -27,7 +27,7 @@ Presentationtimetable syncs [SpeackerDeck](http://speackerdeck.com) presentation
 		});
 	})
 	</body>
-'''
+```
 
 ### Requirements
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
