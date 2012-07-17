@@ -30,8 +30,10 @@ Presentationtimetable syncs [SpeackerDeck](http://speackerdeck.com) presentation
 ```
 
 ### Requirements
+```html
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+```
 
 ### TODO
 - Embed SpeackerDeck through PTT
