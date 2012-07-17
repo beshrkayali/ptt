@@ -5,7 +5,7 @@ Presentationtimetable syncs [SpeackerDeck](http://speackerdeck.com) presentation
 
 
 ### Example Usage
-```ruby
+```html
 	<body>
 	...
 
