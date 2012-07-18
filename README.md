@@ -1,7 +1,7 @@
 PresentationTimetable.js
 ========================
 
-PresentationTimetable.js is a jQuery plugin that syncs [SpeackerDeck](http://speackerdeck.com) presentations with YouTube videos using a time/slide table.
+PresentationTimetable.js is a jQuery plugin that syncs [SpeakerDeck](http://speakerdeck.com) presentations with YouTube videos using a time/slide table.
 
 
 ### Example Usage
@@ -12,7 +12,7 @@ PresentationTimetable.js is a jQuery plugin that syncs [SpeackerDeck](http://spe
 	<!-- YT video container -->
 	<div id="ytapiplayer"></div> 
 
-	<!-- SpeackerDeck Presentation embed code -->
+	<!-- SpeakerDeck Presentation embed code -->
 	<div id="presentation-container"><script async class="speakerdeck-embed" data-id="4fa39c8cdafde4001f02f109" data-ratio="1.299492385786802" src="//speakerdeck.com/assets/embed.js"></script></div> 
 
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
@@ -35,11 +35,11 @@ PresentationTimetable.js is a jQuery plugin that syncs [SpeackerDeck](http://spe
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 ```
 
-### SpeackerDeck API
-SpeackerDeck doesn't have a stable API yet, but I used an [experimental version](https://gist.github.com/1085823ccb86a01d7087) by Brandon Keepers.
+### SpeakerDeck API
+SpeakerDeck doesn't have a stable API yet, but I used an [experimental version](https://gist.github.com/1085823ccb86a01d7087) by Brandon Keepers.
 
 ### TODO
-- Embed SpeackerDeck through PTT
+- Embed SpeakerDeck through PTT
 - Support more than one Presentation/Video combo on a single page
 
 
