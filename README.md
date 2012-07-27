@@ -35,6 +35,9 @@ PresentationTimetable.js is a jQuery plugin that syncs [SpeakerDeck](http://spea
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 ```
 
+### Demo
+Check out a [demo](http://beshr.com/demos/presentationtimetable.html) of how PresentationTimetable works.
+
 ### TODO
 - Embed SpeakerDeck through PTT
 - Support more than one Presentation/Video combo on a single page
