@@ -20,9 +20,10 @@ jQuery.ptt = function(options){
 
 	if (swfobject){  // make sure that swfobject is loaded
 		// speakerdeck api
-		$(document).bind('speakerdeck:player:ready', function(event) {
-		  slides = event.originalEvent.detail || event.originalEvent.details;
-		});
+		var onSpeakerDeckPlayerReady = function(p) {
+		  slides = p
+		};
+
 
 		var params = { allowScriptAccess: "always" };
 		var atts = { id: "ytplayer" };
